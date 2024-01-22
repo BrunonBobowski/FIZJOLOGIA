@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <script>
+      const questionsOriginal = [
+
+          "Gdzie są środki oddechowe?",
+          "Gdzie ośrodki wdechowe ",
+          "Gdzie ośrodki wdechowe i wydechowe",
+          "co robią ośrodki oddechowe w moście",
+          "co robi osrodek pneumotaksyczny",
+          "co robi ośrodek apneustyczny",
+          "co pobudza neurony wdechowe DRG",
+          "co hamuje neurony wdechowe DRG",
+          "neurony wydechowe co stymulują i kiedy",
+          "jakie neurony w obrębie swojej puli tworzą połączenia samopobudzające",
+          "jakie połączenia są między neuronami wdechowymi i wydechowymi i co to daje?",
+          "czy neurony wdechowe i wydechowe ulegają adaptacji? i co to daje",
+          "przez co pobudzane są neurony wyłączejące wdech NWW i co one robią te NWW",
+          "SAR impulsacja z nich na co działa i co daje",
+          "co pobudza SAR?",
+          "kompleks pre-Botzingera w grupie VRG co potrafi",
+          "narysuj schemat z SAR NWW ośrodek itp",
+          "czym zasilany jest ośrodkowy generator rytmu oddechowego",
+          "co się dzieje w osrodkowym generatorze rytmu z impulsacją toniczną?",
+          "narysuj wykres regulacji oddychania (nerwowa i chemiczna)",
+          "gdzie znajdują się SAR",
+          "rozwiń skrót SAR",
+          "co pobudza SAR?",
+          "co robi impulsacja z receptorów SAR?",
+          "co zapobiega nadmiernemu rozciągnięciu płuc",
+          "jaki odruch wywołują SAR?",
+          "co robi odruch Heringa-Breuera",
+          "kiedy u dorosłych odruch Heringa-Breuera występuje?",
+          "co powoduje pobudzenie receptorów SAR (niemiarowość zatokowo-oddechowa",
+          "niemiarowość zatokowo-oddechowa opisz",
+          "RAR - rozwiń skrót",
+          "gdzie są zlokalizowane RAR",
+          "co pobudza RAR",
+          "Jakie substancje aktywują RAR",
+          "do czego doprowadza pobudzenie RAR",
+          "co się stanie jak będziemy drażnić RAR",
+          "co indukują RAR jak mamy zmniejszenie podatności płuc",
+          "gdzie są receptory okołokapilarne J",
+          "przez co pobudzane są receptory okołakapilarne J",
+          "pobudzenie receptorów okołokapilarnych J co daje",
+          "silne pobudzenie receptorów okołokapilarnych J co daje",
+          "funkcja obronna receptorów okołokapilarnych J",
+          "kłębki szyjne i aortalne gdzie są",
+          "co pobudza kłębki szyjne i aortalne",
+          "na co są bardziej wrażliwe kłębki szyjne i aortalne - zmiana CO2 czy O2?",
+          "co intensywnie zachodzi w kłębkach szyjnych i aortalnych?",
+          "co charakteryzuje kłębki szyjne i aortalne w przepływie krwi",
+          "na co nie reagują kłębki szyjne?",
+          "wykres od chemoreceptorów tętniczych obwodowych",
+          "gdzie są chemoreceptory ośrodkowe?",
+          "co pobudza chemoreceptory ośrodkowe?",
+          "co robi pobudzenie chemoreceptorów ośrodkowych?",
+          "o ile rośnie wentylacja płuc na każdy 1mmHg pCO2 w tętniczej?",
+          "wrodzona ośrodkowa niewydolność oddechowa - na czym polega ta choroba",
+          "do czego prowadzi wrodzona ośrodkowa niewydolność oddechowa?",
+          "odruch z chemoreceptorów tętniczych co robi składowa oddechowa?",
+          "nasilenie wentylacji płuc co ją powoduje",
+          "odruch z chemoreceptorów tętniczych na co się dzieli",
+          "składowa krążeniowa - co robi (2)",
+          "odruch nurkowy XD - opisz składowe",
+          "co się dzieje w odruchu nurkowym?",
+          "kiedy mamy skurcz śledziony?",
+          "odruch nurkowy - jak działa na tkanki?",
+          "u kogo najsilniejszy jest odruch nurkowy?",
+          "do czego nam odruch nurkowy?",
+          "podczas porodu odruch nurkowy"
+      
+      
+      
+      ];
+
+      let questions = [...questionsOriginal];
+
+      function generateQuestions() {
+        const selectedQuestions = [];
+
+        for (let i = 0; i < 5; i++) {
+          const randomIndex = Math.floor(Math.random() * questions.length);
+
+          selectedQuestions.push(questions[randomIndex]);
+
+          questions.splice(randomIndex, 1);
+        }
+
+        if (questions.length === 0) {
+          questions = [...questionsOriginal];
+        }
+
+        const questionsElement = document.createElement("div");
+        questionsElement.innerHTML = selectedQuestions.join("<br>");
+
+        document.getElementById("questions").innerHTML = "";
+        document.getElementById("questions").appendChild(questionsElement);
+      }
+    </script>
+<head>
+    <title>Generator kolokwiów</title>
+</head>
+<body style="background-color: #202E3B;">
+    <br>
+    <br>
+    <header style="font-size: large; text-align: center; color: white; font-family: monospace; font-weight: bold;">
+        Generator II kolokwium z biochemii
+    </header>
+    <br>
+    <div style="text-align: center; color: white; font-family: monospace;">
+        <button style="color: black; font-family: monospace; background-color: white;" onclick="generateQuestions()">Wygeneruj pytania</button>
+        <br>
+        <br>
+        <br>
+        <style>
+            .text {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+        </style>
+        <div class="container">
+            <div class="text">Tekst na obrazku</div>
+        </div>
+        <div style="text-align: center; position: relative;">
+            <img src="kartka.jpg" alt="Opis obrazka" width="600" height="200">
+            <div style="color: black; font-family: monospace; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);">
+                <br>
+                <br>
+                <strong>Pytania z Fizjo 11 Regulacja UO:</strong>
+                <br>
+                <br>
+                <div id="questions"></div>
+            </div>
+          </div>
+
+    </div>
+    <br>
+    <footer style="text-align: center; color: white; font-family: monospace;">
+        lekdent 2022/2023
+    </footer>
+</body>
+</html>
