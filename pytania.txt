@@ -1,0 +1,442 @@
+ile wynosi potencjał spoczynkowy miocytów (komórek) roboczych
+ile trwa potencjał czynnościowy komórek roboczych
+wymień fazy potencjału czynnościowego k. roboczych
+wymień fazy potencjału czynnościowego miocytów roboczych
+Faza 0 - co się otwiera i jaki prąd jaki napływ jonów
+Jaki potencjał progowy w fazie 0
+Faza 1 - co się inaktywuje, co napływa/wypływa co się otwiera
+Faza 2 - co napływa/wypływa jaki prąd jakie kanały
+w jakiej fazie następuje aktywacja napięciozależnych kanałów typu L dla Ca2+
+w jakiej fazie mamy szybkie i wolne kanały prostownicze
+wymień skróty wszystkich prądów
+w jakiej fazie aktywowane są kanały sodowe szybkie i wolne?
+w dazie plateau jakie mamy prądy (repo czy repo) i jakie uzystkują przewagę
+Faza 3 co się dzieje
+Wymień wszyskie kazału w potencale roboczych
+do czego doprowadza zwiększenie stężenia jonów K w płynie zewnątrzkomókowym?
+jakie kanały może inaktywować hiperkalemia
+jaki okres obejmuje refrakcja czynnościowa w kardiomiocytach
+jakie są efekty długiej refrakcji w sercowym kardiomiocytach
+czy AUN inicjuje czynność serca
+co robi AUN na serce
+Ukłąd Bodźcowo-Przewodzący serca - co robi
+co zapewnia automatyzm pracy serca
+co umożliwia synchronizację skurczu kardiomiocytów
+z czego zbudowany jest układ bodźcowo-przewodzący
+co jest szczególnego w budowie zmodyfikowanych kardiomiocytów układu BP
+Węzeł zatokowo-przedsionkowy - gdzie jest?
+z jakich komórek zbudowany jest węzeł zatokowo-przedsionkowy
+co jest szczególnego w komórkach budujących węzeł zatokowo-przedsionkowy
+jaka struktura w warunkach fizjologicznych jest rozrusznikiem
+jaką częstotliwość czynnościowych ma węzeł zatokowo-przedsionkowy
+przez co jest hamowany tonicznie węzeł zatokowo-przedsionkowy?
+gdzie i przez co przekazuje pobudzenie węzeł zatokowo-przedsionkowy?
+wymień stryktury układu bodźcowo-przewodzącego razem ze skrótami
+szlaki międzywęzłowe i międzyprzedsionkowe jaką szybkość przewodzenia mają
+co przyśpieszają szlaki między i miedzy
+co przyśpiesza aktywację lewego przedsionka?
+na co rozprzestrzeniają pobudzenie szlaki miedzy i miedzy
+co bezpośrednio pobudzają miedzywęzłowe i międzyprzedsionkowe?
+gdzie zlokalizowany jest węzeł przedsionkowo-komorowy
+czym odizolowane są przedsionki od komór
+po co jest pierścień włóknisty i gdzie
+co jest jedyną drogą między przedsionkami a komorami dla pobudzenia
+po co jest węzeł przedsionkowo-komorowy
+jaka jest szybkość przewodzenia w węźle przedsionkowo-komorowym i dlaczego tak wolno?
+wymień kolejność zostawania rozrusznika serca
+z jaką częstotliwością generuje potencjały węzeł przedsionkowo-komorowy
+układ bodźcowo-przewodzący serca - budowa/struktury
+gdzie są włókna purkinjego w układzie bodźcowo-przewodzącym komór
+układ bodźcowo-przewodzący komór - na jakim etapie dochodzi do przekazywania potencjału czynnościowego na komóki robocze
+szybkość przewodzenia w układzie BP komór
+szybkość przewodzenia w mięśniówce roboczej komór
+układ BP komór jaka częstotliwość generowanych pobudzeń 
+narysuj potencał czynnościowy komórek rozrusznikowych
+jaki potencjał progowy w komórkach rozrusznikowych :(
+czym charakteryzują się komórki rozrusznikowe
+poniżej jakiego potencajłu nie spada potencjał komórek rozrusznikowych
+czym charakteryzują się komórki kolejnych odgałęzień układu BP komór?
+po co komórki układu BP mają coraz to dłuższe potencjału czynnościwe
+co może wykryć EKG?
+Opisz odprowadzenie dwubiegunowe kończynowe 
+opisz EKG jednobiegunowe kończynowe wzmocnione
+Opisz EKG jednobiegunowe przedsercowe
+Opisz części składowe EKG
+co to linia izoelektryczna
+co to załamek
+co to odcinek
+co to odtęp
+płaski odcinek EKG to
+każde odchylenie od lini izoeletkrycznej to
+fragment linii izoelektrycznej pomiędzy załamkami to
+przynajmniej jeden odcinek + jeden załamek
+co znaczy załamek P
+co znaczy odcinek PQ
+co znaczy zespół QRS
+co znaczy odcinek ST
+co znaczy załamek T
+co znaczy odcinek TP
+EKG kiedy mamy depolaryzacje przedsionków
+EKG kiedy mamy przesyłanie potencjału przez węzeł AV i UBP komór
+EKG kiedy mamy depolaryzacje komór
+co przykrywa w EKG depolaryzacja komór 
+EKG kiedy mamy wszystkie kerdiomiocyty w fazie plateau
+EKG kiedy mamy repolaryzacje komór
+EKG kiedy mamy wszyskie kardiomiocyty w fazie potencjału spoczynkowego
+wymień kolejność aktywacji w EKG
+co się pierwsze depolaryzuje w przedsionkach
+co w przedsionku jako ostatnie się depolaryzuje
+ile zajmuje proces aktywacji przedsionków?
+co pierwsze ulega pobudzeniu w komorach?
+opisz kolejność aktywacji w komorach
+co ostatnie się depolaryzuje w komorach
+ile zajmuje aktywacja komór
+od czego zależy wysokość załamka zapisu w EKG
+dlaczego załamek T ma taki sam zwrot jak najwyższy załamek zespołu QRS
+czym różnią się kardiomiocyty od komórek mięśni szkieletowych?
+jak łączą się ze sobą komórki mięśnia sercowego?
+jak rozwinięte jest retikulum sarkoplazmatyczne w mięśniu sercowym w porównaniu do innych
+co to retikulum sarkoplazmatyczne?
+gdzie są zlokalizowane diady w sercowych mięśniach
+czy jest dużo mitochondriów w mięśniu sercowym?
+opisz sprzężenie elektromechaniczne w kardiomiocytach? narysuj schemat
+jak wpływa wydłużenie czasu trwania plateau potencjału czynnościowego kardiomiocytów na siłę skurczu
+jaka jest siłą skurczu serca w porównaniu do częstości pobudzeń
+jaką siłę ma skurcz przedwczesny?
+prawo Franka-Starlinga - narysuj wykres
+co to jest EDV?
+jaki jest stopień rozciągnięcia komór w warunkach spoczynkowych?
+napisz prawo franka starlinga (6 slajd)
+przez co głównie jest regulowana kurczliwość serca? (3 rzeczy)
+SV co to jest?
+co to jest objętość wyrzutowa (SV)?
+od czego zależy SV? (3 rzeczy)
+w spoczynku ile stanowi SV objętości późnorozkurczowej
+co może spowodować szybki wzrost HR?
+napisz skrót pojemności minutowej
+co to jest pojemność minutowa?
+ile wynosi CO w spoczynki i wysiłku
+napisz wzór na CO
+co jest kluczowym czynnikiem limitującym CO?
+ile trwa cykl hemodynamiczny serca?
+co to cykl hemodynamiczny serca?
+napisz fazy cyklu hemodynamicznego
+faza przedsionków - zastawki, objętość komór, czas
+faza skurczu izowolumetrycznego komór - zastawki, objętość komór, jakie ciśnienie na koniec
+faza wyrzut komorowy - zastawki, ciśnienie w komorach, czas
+faza rozkrczu izowolumetrycznego komór - zastawki, ciśnienie w komorach, czas trwania
+faza napełniania komór - zastawki, objętość komór, czas trwania
+kiedy mamy największe ciśnienie w lewej komorze?
+tony serca - wymień dwa
+ton skurczowy - co go powoduje
+ton skurczowy - ile twa i ile Hz?
+ton skurczowy - gdzie najlepiej słyszalny?
+ton rozkurczowy - co go powoduje?
+ton rozkurczowy - ile Hz i ile trwa?
+ton rozkurczowy - gdzie najlepiej słyszalny?
+o czym mogą świadczyć szmery w sercu?
+opisz elementy mikrokrążenia
+przez jaki element jest regulowany dopływ krwi do naczyń włosowatych
+zwieracze przedwłośniczkowe zakmnięte - jak płynie krew
+czego nie posiadają metaarteriole?
+wymień 5 właściwości fiycznych naczyń krwionośnych
+wymień 5 podziałów czynnościowych naczyń krwionościnych
+podział czynnościowy naczyń krwionośny (co max i min)
+co to jest natężenie przepływu krwi + (wzór)
+co to jest opór naczyniowy + (wzór)
+co jest najważniejszym czynniekiem determinującym opór przepywu
+co to lepkość krwi?
+ile % lepkość osocza jest większa od wody?
+lepkość krwi w podównianiu do wody ile razy większe?
+ile hematokryt % aby = oliwa
+lepkość krwi w zależności od temp., ile razy przy 0oC
+ile % oporu całkowitego to tętniczki?
+gdzie max przepływ litr/min?
+powietrznia - opiszpowietrznia - slajd 31
+jakie warunki do wystąpienia zastawek z żyłach
+wymień 3 rzeczy, które wspomagaja krążenie żylne
+przeplyw laminarny co to
+przepływ burzliwy co to jest
+gdzie może wystąpić przepływ burzliwy?
+co to akumulacja osiowa krwinek
+co to zbieranie osocza
+co to ciśnienie skurczowe
+co to ciśnienie rozkurczowe
+co to ciśnienie tętna
+co to ciśnienie statystyczne
+wplyw grawitacji na ciśnienie / ile mmHg na cm
+ile mmHg w mózgu tętnicze a żylne i co się dzije z żyłami
+ile mmHg w tętnicach stopu i żyłach i czemu teoretyczne?
+co powoduje ciśnienie hydrostatyczne krwi a co ciśnienie onkotyczne białek
+przez jakie siły determinowany jest ruch płynu?
+filtracja i reabsorpcja - co z tych dwóch przeważa?
+ile w ciągu doby pozostaje filtratu w tkankach?
+skład limfy - do czego jest podobny, ale czym się różni?
+czy limfa może płynąć w 2 kierunkach?
+czy w naczyniach limfarycznych są zastawki?
+4 rzeczy, które napędzają ruch limfy?
+przepływ limfy - struktury po kolei
+4 funkcje limfy (B,O,T,O)
+Podział regulacji krążenia (takie drzewko)
+Regulacja miejscowa - jaki charaker/czy udział AUN?/cel
+Regulacja układowa - jaki charakter/czy obejmuje serce?/cel
+jaka regulacja ma na celu utrzymanie prawidłowego ciśnienia tętniczego?
+Autoregulacja - jakie naczynia głównie?/co ją trigerruje?
+Autoregulacja poprzez co działa?
+czy autoregulacja to odruch i czy AUN zaangażowany?
+gdzie dominuje autoregulacja?
+wymień dwa mechanizmy odpowiedzialne za autoregulacje
+autoregulacja mechanizm miogenny - po co jest?/podłoże działania?/gdzie szczególnie?
+autoregulacja mechanizm miogenny - te dwa wykresy narysować
+autoregulacja mechanizm metaboliczny - po co?/podłoże działania/gdzie?
+jakie 5 rzeczy wzmacnia miejscowy metabolizm
+regulacja miejscowa - parakrynna - machanizm działania
+związki naczyniozwężające
+związki naczyniorozszerzające
+NO - gdzie produkowany i przy udziale czego?
+czy acetylocholina działa przy udziale NO?
+do czego przyłącza się NO w gładkich?
+opisz mechanizm działania NO
+hormony naczyniozwężające
+hormony zwiększające siłę i częstość skurczów
+hormon działający naczyniorozszerzająco i zmniejszająco V krwi
+jak działa PP Natriuretyczny?
+Co zwiększa objętość krwi?
+jak działa aldosteron i wazopresyna?
+jak działa unerwienie współczulne noradrenergicznne na naczynia?
+unerwienie współczulne noradrenergicznne gdzie dużo a gdzie mało?
+unerwienie współczulne noradrenergicznne czy toniczne?
+Przywspółczune cholinergiczne - jak na naczynia dzaiła?
+unerwienie współczulne noradrenergicznne gdzie jest?
+unerwienie współczulne noradrenergicznne czy aktywność toniczna?
+AUN na serce przez co działa?
+jakie elementy serca mają unerwienie PNS I SNS?
+Na co działa efekt chronotropowy?
+SNS co robi z HR?
+na co głównie działa AUN w sercu?
+jakie receptory w efekcie chronotropowym?
+slajde 18 z precentacji 9 do ogarnięcia
+efekt dromotropowy - na co wpływa w sercu?
+na czym polega działanie AUN w dromotropowym?
+jakie receptory w Dromotropowym?
+efekt inotropowy - jakie receptory?
+efekt inotropowy - to wpływ na co?
+efekt inotropowy - na czym polega działanie AUN?
+baroreceptory tętnicze - gdzie są
+baroreceptory tętnicze - co je aktywuje?
+baroreceptory tętnicze bodziec progowy?
+baroreceptory tętnicze - jaka drogą trafia i gdzie?
+baroreceptory tętnicze - gdzie sąw sercu i płucach?
+narysuj schemat odruchu z baroreceptoró tętniczych
+baroreceptory tętnicze - odruch silniejszy na wzrost czy spadek ciśnienia?
+baroreceptory tętnicze odruch czas latencji ile wynosi?
+baroreceptory tętnicze jak odnerwimy to co wtedy się dzieje?
+krążenie mózgowe - czy AUN ma duży wpływ?
+krążenie mózgowe - regulacja metaboliczna - co ma największe znaczynie?
+CO2 wzrost w mózgu - co się dzieje z naczyniami?
+ile mmHg autoregulacja w mózgowym?
+co zaopatruje w krew serce?
+co charakteryzuje sieć naczyń na sercu?
+krążenie wieńcowe - wpływ AUN i co innego reguluje?
+ile razy w płucnym opory są mniejsze?
+ile jest ciśnienie w tętnicy płunej mmHg?
+jaka jest podatność w płucach?
+wdech - co się dzieje z objętością wyrzutową PK i krążeniem płucnym?
+wydech - co się dzieje z objętością w komorach i krążeniu płucnym
+AUN i naczynia płucne - jaki wpływ?
+co to jama opłucnej, pomiędzy czym jest
+jakie ma funkcje jama opłucnej
+dzięki jakimu zjawisku jama opłucnej działa
+i ile obniża się ciśnienie at od pęcherzykowego
+w jakiej fazie gradient największy
+kiedy ciśnienie pęcherzykowe jest równe płucnemu
+wymień mięśnie wdechowe dodatkowe
+wymień mięśnie wydechowe dodatkowe
+mięśnie wdechowe
+co się dzieje przy wdechu
+jakie zanieczyszczenia zostają w nosie i dlaczego
+jakie cząstki 2-10um dostają się do czego i co się dzieje z nimi
+co się dzieje z cząstkami under 2um?
+jaki nabłonek w generacji 0-16 
+jaki nabłonek w generacji 17-19
+jaki nabłonek w generacji 20-23
+jakie struntury w generacji 0-16
+jakie sturuktury w generacji 17-19
+jakie struktury w generacji 20-23
+gdzie rozpoczyna się wymiara gazowa
+jak się nazywa ta objętość w stresie przewodzącej i ile jej jest
+etapy oddychania
+reakcja od spadku pH
+funckje U. Oddechowego
+Gdzie są środki oddechowe?
+Gdzie ośrodki wdechowe 
+Gdzie ośrodki wdechowe i wydechowe
+co robią ośrodki oddechowe w moście
+co robi osrodek pneumotaksyczny
+co robi ośrodek apneustyczny
+co pobudza neurony wdechowe DRG
+co hamuje neurony wdechowe DRG
+neurony wydechowe co stymulują i kiedy
+jakie neurony w obrębie swojej puli tworzą połączenia samopobudzające
+jakie połączenia są między neuronami wdechowymi i wydechowymi i co to daje?
+czy neurony wdechowe i wydechowe ulegają adaptacji? i co to daje
+przez co pobudzane są neurony wyłączejące wdech NWW i co one robią te NWW
+SAR impulsacja z nich na co działa i co daje
+co pobudza SAR?
+kompleks pre-Botzingera w grupie VRG co potrafi
+narysuj schemat z SAR NWW ośrodek itp
+czym zasilany jest ośrodkowy generator rytmu oddechowego
+co się dzieje w osrodkowym generatorze rytmu z impulsacją toniczną?
+narysuj wykres regulacji oddychania (nerwowa i chemiczna)
+gdzie znajdują się SAR
+rozwiń skrót SAR
+co pobudza SAR?
+co robi impulsacja z receptorów SAR?
+co zapobiega nadmiernemu rozciągnięciu płuc
+jaki odruch wywołują SAR?
+co robi odruch Heringa-Breuera
+kiedy u dorosłych odruch Heringa-Breuera występuje?
+co powoduje pobudzenie receptorów SAR (niemiarowość zatokowo-oddechowa)
+niemiarowość zatokowo-oddechowa opisz
+RAR - rozwiń skrót
+gdzie są zlokalizowane RAR
+co pobudza RAR
+Jakie substancje aktywują RAR
+do czego doprowadza pobudzenie RAR
+co się stanie jak będziemy drażnić RAR
+co indukują RAR jak mamy zmniejszenie podatności płuc
+gdzie są receptory okołokapilarne J
+przez co pobudzane są receptory okołakapilarne J
+pobudzenie receptorów okołokapilarnych J co daje
+silne pobudzenie receptorów okołokapilarnych J co daje
+funkcja obronna receptorów okołokapilarnych J
+kłębki szyjne i aortalne gdzie są
+co pobudza kłębki szyjne i aortalne
+na co są bardziej wrażliwe kłębki szyjne i aortalne - zmiana CO2 czy O2?
+co intensywnie zachodzi w kłębkach szyjnych i aortalnych?
+co charakteryzuje kłębki szyjne i aortalne w przepływie krwi
+na co nie reagują kłębki szyjne?
+wykres od chemoreceptorów tętniczych obwodowych
+gdzie są chemoreceptory ośrodkowe?
+co pobudza chemoreceptory ośrodkowe?
+co robi pobudzenie chemoreceptorów ośrodkowych?
+o ile rośnie wentylacja płuc na każdy 1mmHg pCO2 w tętniczej?
+wrodzona ośrodkowa niewydolność oddechowa - na czym polega ta choroba
+do czego prowadzi wrodzona ośrodkowa niewydolność oddechowa?
+odruch z chemoreceptorów tętniczych co robi składowa oddechowa?
+nasilenie wentylacji płuc co ją powoduje
+odruch z chemoreceptorów tętniczych na co się dzieli
+składowa krążeniowa - co robi (2)
+odruch nurkowy XD - opisz składowe
+co się dzieje w odruchu nurkowym?
+kiedy mamy skurcz śledziony?
+odruch nurkowy - jak działa na tkanki?
+u kogo najsilniejszy jest odruch nurkowy?
+do czego nam odruch nurkowy?
+podczas porodu odruch nurkowy
+Ile litrów krwi jest w człowieku?
+Wymien skład krwi (osocze, krwinki)
+Osocze skład (białka, woda)
+wymień białka osocza i skład procentowy
+wymień krwinki i ich skład %
+co to hematokryt
+o ile % hematokryt jest wyższy u mężczyzn
+podaj normalny zakres hematokrutu u mężczyzn i kobiet
+kiedy hematokryt jest max i min (i ile %)
+Albuminy - ile %?
+podaj funkcję albumin (2)
+które białka są od utrzymania ciśnienia onkotycznego
+które białka są od transportowania kwasów tłuszczowych, bilirubiny
+gdzie produkowane są albuminy
+ile % stanowią globuliny?
+na jakie frakcje dzielą się globuliny?
+podaj funckję poszczególnych globulin
+co zawierają globuliny?
+gdzie produkowane są globuliny?
+fibrynogen - ile % stanowi?
+jakie jest największe białko osocza?
+co jest substratem fibryny
+gdzie syntetyzowany jest fibrynogen?
+co to surowica?
+erytrocyty - podaj referowane zakresy dla mężczyzn i kobiet
+ile jest erytrocytów w człowieku?
+ile żyją erytrocyty?
+ile % erytrocytów codziennie ulega wymianie
+fuckcja erytrocytów
+jak rozszerzają tętniczki erytrocyty?
+jak regulują limfocyty erytrocyty?
+jaki ładunek ma błona erytrocytów i po co to jest
+jak przystosowany jest erytrocyt aby nie robił agregatów?
+czy w erytrocytach jest możliwa synteza nowych białek i procesy naprawcze?
+ile % masy erytrocytów stanowi hemoglobina?
+ile cząsteczek Hb ma erytrocyt?
+jak ATP produkuje erytrocyt?
+gdzie usuwane są erytrocyty?
+jak usuwane są erytrocyty? z czym się łączą
+jak wyróżnia się grupy krwi?
+ile mamy układów grupowych krwi?
+czy można zmienić grupę krwi?
+gdzie są antygeny AB0?
+gdzie są przeciwciała od AB0?
+Kiedy pojawiają się przeciwciała od AB0?
+Jak powstaje antygen A i B?
+grupa Bombay o co chodzi?
+ile wariantów antygenu A mamy?
+ile antygenów obejmuje układ Rh?
+przez ile genów kodowany jest antygen od Rh?
+jaki antygen od Rh ma największą immunogenność? i co od daje?
+osoba ma grupa Rh- to ma antygen anty-D czy nie?
+czy można wytworzyć antygen anty-D?
+konflikt serologiczny - kiedy występuje?
+do jakiej klasy należą przeciwciała anty-D?
+jakie przeciwciała mogą przenikać łożysko a jakie nie?
+przetaczanie krwi - co musi być zgodne?
+jaka grupa jest uniwersalna?
+co robi się przed transfuzją?
+jakie jest najbardziej poważne powikłanie transfuzji?
+ile g żelaza zawiera człowiek?
+ile % żelaza jest związane z hemoglobiną?
+ile % żelaza jest zmagazynowane i gdzie?
+ile % żelaza w mioglobinie
+ile % żelaza w enzymach?
+ile % żelaza w krwi w połączeniu z transferryna?
+jak traci żelazo człowiek? i mężczyzn czy kobiet mocniej?
+ile żelaza przyjmujemy w ciagu doby, i jaka sprawność?
+gdzie żelazo hemowe i niehemowe w diecie? które lepiej przysfajalne jest?
+hemoglobina - budowa
+co w centralnym miejscu ma hemoglobina?
+wymień rodzaje hemoglobiny i od czego są
+jaka hemoglobina jest od odporności na malarię
+ile cząteczek tlenu maksymalnie transportuje Hb?
+ile 1g hemoglobiny może maź wiązać ml tlenu?
+ile przeciętnie mamy hb g/dl we krwi i ile ml o2?
+pojemność tlenowa krwi ile wynosi? a ile rzeczywiście?
+krzysa dysocjacji oksyhemoglobiny krzywa narysuj
+krzywa dysocjacji mioglobiny i hemoglobiny
+krzywa powinowactwa hemogloibny do tlenu
+ile razy powinowactwo tlenku węgla do hemoglobiny jest wyższe
+co to powinowacjtwo hemoglobiny do tlenu?
+co i jak modyfikuje powinowacjtwo hemoglobiny do tlenu?
+jaka saturacja jest na Mount Evereście?
+dwutlenek węgla ile ml jest w tętnicach, a żyłach?
+ile % CO2 jest rozpuszczone w osoczu i krwinkach?
+ile % CO2 jest związane z Hb?
+ile % CO2 jest w postaci jonów HCO3-
+ile % CO2 z żylnej dyfunkuje do pęcherzyków?
+dlaczego hematokryt krwi żylnej wyst wyższy od tętniczej?
+płytki krwi - ile jest?
+gdzie są zmagazynowane płytki krwi?
+ile żyją płytki krwi?
+czy płytki krwi mają jądra?
+z czego są płytki krwi?
+średnica płytek krwi
+co się dzieje po aktywacji płytek krwi?
+opisz budowę płytki krwi
+jakie substancje są wydzielane przez aktywowane płytki krwi?
+Etapy krzepnięcia krwi
+co to hemostaza
+reakcja naczyniowa - co to?
+opisz powstawanie czopu
+opisz koagulację
+fibrynoliza - opisz
+funkcje fibrynolizy
